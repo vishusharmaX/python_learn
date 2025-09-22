@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Vishwajeet Sharma",
+    "age": 21,
+    "email": "vishwajeet@gmail.com",
+    "pin_hash": "27d73d98c36f3dc0af6a78ae35b7ac66cbb5b379984500104f18f71864c94fd2",
+    "accountNo": "ACNTHWPL",
+    "balance": 9000.0,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 10000.0,
+        "timestamp": "2025-09-22T18:24:26.423831Z"
+      },
+      {
+        "type": "withdraw",
+        "amount": 1000.0,
+        "timestamp": "2025-09-22T18:25:03.497980Z"
+      }
+    ]
+  }
+]
